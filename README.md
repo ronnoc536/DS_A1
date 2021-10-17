@@ -22,8 +22,8 @@ Use your coding skills and lead “Planet Express Softworks” to create an ‘a
 **Testing:**
 The Omicronian IT services have also provided you with sample programs that make use of the ArrayList class and their corresponding outputs. You can use them to check if your implementation is working correctly. As long as your ArrayList class behaves just like the original, Emperor Lrrr will be satisfied with your product.
 
-The program ‘smalltester.cpp’ uses the ArrayList class and is supposed to produce the output ‘smalloutput.txt’.
-The program ‘largetester.cpp’ uses the ArrayList class and is supposed to produce the output ‘largeoutput.txt’.
+    The program ‘smalltester.cpp’ uses the ArrayList class and is supposed to produce the output ‘smalloutput.txt’.
+    The program ‘largetester.cpp’ uses the ArrayList class and is supposed to produce the output ‘largeoutput.txt’.
 
 In this assignment, you will be penalized for memory leaks. To test for leaks, you can use the "Valgrind" tool available in the UNIX systems:
 After compiling with     fg++ tester.cpp -o tester.ex 
