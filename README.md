@@ -35,12 +35,13 @@ Submit your assignment by placing all code in this assignment's git repository i
 Your program will be evaluated and graded on the Computer Science department's Linux machines so your program needs to be compatible with the current system, compilers and environment.  
 
 **Useful Hints:**
---Carefully read the comments of each member function. 
---Write down an algorithm for the function before you start coding it. 
---Develop your member functions one at a time, starting from the simplest ones.
---Move to the next function only after the previous one has been tested. 
---Trying to code the whole class and then remove the bugs may prove to be too big a task.
---Use the provided friend function ’operator<<’ to observe the status of your lists.
---When a function that needs to return something “panics”, return the 'm_errobj' member.
---The default constructor and function ’max()’ are defined in the class declaration. You do not need to implement them.
+
+     Carefully read the comments of each member function. 
+     Write down an algorithm for the function before you start coding it. 
+     Develop your member functions one at a time, starting from the simplest ones.
+     Move to the next function only after the previous one has been tested. 
+     Trying to code the whole class and then remove the bugs may prove to be too big a task.
+     Use the provided friend function ’operator<<’ to observe the status of your lists.
+     When a function that needs to return something “panics”, return the 'm_errobj' member.
+     The default constructor and function ’max()’ are defined in the class declaration. You do not need to implement them.
 
